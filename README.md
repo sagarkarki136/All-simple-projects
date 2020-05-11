@@ -6,21 +6,21 @@ Brief of the projects:
   
 1.Zindi Flood prediction:
 
-  - methods used : K fold, Stacking, Out of fold prediction
+  - Methods used : K fold, Stacking, Out of fold prediction
  
-  - models: all boosting models, bagging , Randon forest
+  - Models: XGBoost, GradientBoost,AdaBoost , Bagging , Randon forest
  
-  - Result: thiswas my first attemt at the compition and i got on to the leader board at rank of 245 of1100(as of april 2020)
+  - Result: This was my first attemt at the compition(Zindi flood prediction) and I got on the leader board at rank of 245 of 1100(as of april 2020)
  
 
 
 2.American sign language Classification:
 
- - modules: Pytorch, PIL, Numpy, Pandas
+ - Modules: Pytorch, PIL, Numpy, Pandas
 
- - model: Efficient Net B2(large scope for experimentation with better data and other SOTA models and Ensembling)
+ - Model: Efficient Net B2(large scope to experiment with better data and other SOTA models and ensembling)
 
- - Result: The data used is from kaggle ASL and I got 100% result but this because the test data set has only one image per letter and therefore it was on point for future experimentation i will go for better data along with data augmentation and variation indata ad then have an ensemble of the Sota models for purpose of deployment
+ - Result: The data used is from kaggle ASL and I got 100% accuracy.This was partly because of less images in test data set. For future experiment I will go for better data set along with data augmentation and then have an ensemble of the SOTA models for purpose of deployment
 
 3.Mask or non mask clssification:
 
@@ -28,7 +28,7 @@ Brief of the projects:
 
  - Model: InceptionResnetV2
 
- - Result : It gives 100% accuracy on the test set and vaidation set. Further seting this up with a face detector (one of my up coming projects) we can use this for real time detection . Thi can be readiy done ven now with opencv's or any other deep learning packages free face detection software clubbed with my model
+ - Result : It gives 100% accuracy on the test set and vaidation set. Further seting this up with a face detector (one of my up coming projects) we can use this for real time detection . This can be done even now with opencv's or any other deep learning package's free face detection software clubbed with my model.
 
 4.Gun detection:
 
@@ -45,5 +45,5 @@ Brief of the projects:
 
  - Models tried: Inception, Resnet
 
- - Results and further scope: The results rae not that facinating ,58% on test, the data set used is from FER2013 and i suppose it will definetly perform very well onvce i have more data and better augmentations implemented along with obviously Ensemble and hyper parameter tuning of the models(I am more biased towards the efficient nets:) ) 
+ - Results and further scope: The results rae not that facinating ,58% on test, the data set used is from FER2013 and I suppose it will definetly perform very well once I have more data and better augmentations implemented along with obviously Ensemble and hyper parameter tuning of the models(I am thinking of efficient nets:) ) 
  
