@@ -1,10 +1,10 @@
 
 
-Brief of the projects:
+# Brief of the projects:
   
 
   
-1.Zindi Flood prediction:
+## 1.Zindi Flood prediction:
 
   - Methods used : K fold, Stacking, Out of fold prediction
  
@@ -14,7 +14,7 @@ Brief of the projects:
  
 
 
-2.American sign language Classification:
+## 2.American sign language Classification:
 
  - Modules: Pytorch, PIL, Numpy, Pandas
 
@@ -22,7 +22,7 @@ Brief of the projects:
 
  - Result: The data used is from kaggle ASL and I got 100% accuracy.This was partly because of less images in test data set. For future experiment I will go for better data set along with data augmentation and then have an ensemble of the SOTA models for purpose of deployment
 
-3.Mask or non mask clssification:
+## 3.Mask or non mask clssification:
 
  - modules: tensorflow, Keras
 
@@ -30,7 +30,7 @@ Brief of the projects:
 
  - Result : It gives 100% accuracy on the test set and vaidation set. Further seting this up with a face detector (one of my up coming projects) we can use this for real time detection . This can be done even now with opencv's or any other deep learning package's free face detection software clubbed with my model.
 
-4.Gun detection:
+## 4.Gun detection:
 
  - Tech: Darknet
 
@@ -39,7 +39,7 @@ Brief of the projects:
 
  - Result: This mode has been trained for 4000 steps and performs preety well. This can be enhanced with more number of training steps and trying out combinations of the batch size and steps . And of course YOLOv4 is out so .....:)try it
 
-5.Emotion Recognintion:
+## 5.Emotion Recognintion:
 
  - Modules : Tensorflow, Keras
 
