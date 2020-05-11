@@ -2,17 +2,15 @@
 
 Brief of the projects:
   
-  
+
   
 1.Zindi Flood prediction:
 
- methods used : K fold, Stacking, Out of fold prediction
+  - methods used : K fold, Stacking, Out of fold prediction
  
+  - models: all boosting models, bagging , Randon forest
  
- models: all boosting models, bagging , Randon forest
- 
- 
- Result: thiswas my first attemt at the compition and i got on to the leader board at rank of 245 of1100(as of april 2020)
+  - Result: thiswas my first attemt at the compition and i got on to the leader board at rank of 245 of1100(as of april 2020)
  
 
 
