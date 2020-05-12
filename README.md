@@ -16,7 +16,7 @@
 
 ## 2.American sign language Classification:
  - This project aims at easing the life of blind people by clssifying the letters from hand guestures .The models in the projets are trained on ASL data from Kaggle.
- - Modules: Pytorch, PIL, Numpy, Pandas
+ - Dependencies:  Python 3.6.9 , PIL, Numpy,Matplotlib, Pandas , Pytorch
 
  - Model: Efficient Net B2(large scope to experiment with better data and other SOTA models and ensembling)
 
@@ -25,7 +25,7 @@
 ## 3.Mask or non mask classification:
  - The project aims at identifying whether the person is wearing mask or not.This could be deployed during the current pandemic for greater good
 
- - modules: tensorflow, Keras
+ - Dependencies: Python 3.6.9,Numpy,Matplotlib, Tensorflow, Keras
 
  - Model: InceptionResnetV2
 
@@ -43,9 +43,9 @@
 ## 5.Emotion Recognition:
  - This project is built for recognising the emotion through image or videos. The models in this project are trained on FER2013 data set. 
 
- - Modules : Tensorflow, Keras
+ - Dependencies :Python 3.6.9,Numpy,Matplotlib ,Tensorflow, Keras
 
- - Models tried: Inception, Resnet
+ - Models tried: InceptionResNet, ResNet
 
  - Results and further scope: The results rae not that facinating ,58% on test, the data set used is from FER2013 and I suppose it will definetly perform very well once I have more data and better augmentations implemented along with obviously Ensemble and hyper parameter tuning of the models(I am thinking of efficient nets:) ) 
  
