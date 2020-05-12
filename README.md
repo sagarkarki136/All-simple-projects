@@ -32,7 +32,7 @@
  - Result : It gives 100% accuracy on the test set and vaidation set. Further seting this up with a face detector (one of my up coming projects) we can use this for real time detection . This can be done even now with opencv's or any other deep learning package's free face detection software clubbed with my model.
 
 ## 4.Gun detection:
-  - This project is buit to increse the security . The project aims at detecting guns from the image or video and this can further clubbed with alarm system or other security measures
+  - This project is built to increase the security . The project aims at detecting guns from the image or video and this can further clubbed with alarm system or other security measures
  - Tech: Darknet
 
 
