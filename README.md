@@ -22,7 +22,7 @@
 
  - Result: The data used is from kaggle ASL and I got 100% accuracy.This was partly because of less images in test data set. For future experiment I will go for better data set along with data augmentation and then have an ensemble of the SOTA models for purpose of deployment
 
-## 3.Mask or non mask clssification:
+## 3.Mask or non mask classification:
  - The project aims at identifying whether the person is wearing mask or not.This could be deployed during the current pandemic for greater good
 
  - modules: tensorflow, Keras
@@ -40,7 +40,7 @@
 
  - Result: This mode has been trained for 4000 steps and performs preety well. This can be enhanced with more number of training steps and trying out combinations of the batch size and steps . And of course YOLOv4 is out so .....:)try it
 
-## 5.Emotion Recognintion:
+## 5.Emotion Recognition:
  - This project is built for recognising the emotion through image or videos. The models in this project are trained on FER2013 data set. 
 
  - Modules : Tensorflow, Keras
