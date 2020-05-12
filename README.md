@@ -23,7 +23,7 @@
  - Result: The data used is from kaggle ASL and I got 100% accuracy.This was partly because of less images in test data set. For future experiment I will go for better data set along with data augmentation and then have an ensemble of the SOTA models for purpose of deployment
 
 ## 3.Mask or non mask clssification:
- - The project aims at identifying wheather the person is wearing mask or not.This could be deployed during the current pendamic for greater good
+ - The project aims at identifying whether the person is wearing mask or not.This could be deployed during the current pandemic for greater good
 
  - modules: tensorflow, Keras
 
