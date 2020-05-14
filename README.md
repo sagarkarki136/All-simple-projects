@@ -50,7 +50,12 @@
  - Results and further scope: The results rae not that facinating ,58% on test, the data set used is from FER2013 and I suppose it will definetly perform very well once I have more data and better augmentations implemented along with obviously Ensemble and hyper parameter tuning of the models(I am thinking of efficient nets:) ) 
  
  
- 
+ ## 6.Face Detection:
+  - This project aims at detecting faces from images and videos.The models in this project have been trained on Wider Face dataset. 
+  - Tech : Darknet
+  - Model: YOLOv3
+  - Results: The model has ben trained for only 3000 steps with batch size of 64 over roughly 12100 images from wider face dataset and performs pretty well for such less amount of training steps .A demo prediction is abailable in the output of last cell of the Face_detection.ipynb of the folder. The model can be improved to great extent once we increase the max_batch and steps parameter in config file 
+  
  
  
  All the experiments of the projects are done on colab notebook for sole reason of free GPU. So if you wish to build your own model ,you can just clone the git and get the ipynb and run them on colab  and make changes according to your need . I intend to keep improving the model and up to date with current SOTA modeles. So if you want the trained model you can contact me at **sagarkarki136@gmail.com**  
