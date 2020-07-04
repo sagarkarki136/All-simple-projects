@@ -56,6 +56,10 @@
   - Model: YOLOv3
   - Results: The model has ben trained for only 3000 steps with batch size of 64 over roughly 12100 images from wider face dataset and performs pretty well for such less amount of training steps .A demo prediction is abailable in the output of last cell of the Face_detection.ipynb of the folder. The model can be improved to great extent once we increase the max_batch and steps parameter in config file 
   
- 
- 
+ ## 7. Social Distancing Detection:
+  - This projects aims at easing the work of survelience for Social distancing  and detecting count of people in region along with violation count 
+  -Tech: Darknet,OpenCV
+  -Model:YOLOv3
+  -Results: The model uses the YOLOv3 model in OpenCV to analyze video footage and generate inference.With strong GPU and intrensic and extrensic caliberation of camera we can increase the accuracy and performance of the system and make it deployment ready.
+  
  All the experiments of the projects are done on colab notebook for sole reason of free GPU. So if you wish to build your own model ,you can just clone the git and get the ipynb and run them on colab  and make changes according to your need . I intend to keep improving the model and up to date with current SOTA modeles. So if you want the trained model you can contact me at **sagarkarki136@gmail.com**  
