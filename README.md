@@ -64,9 +64,9 @@
    - Results: The model uses the YOLOv3 model in OpenCV to analyze video footage and generate inference.With strong GPU and intrensic and extrensic caliberation of camera we can increase the accuracy and performance of the system and make it deployment ready.
    
  ## 8.Pneumonia Classification:
-  - This project aims at identifying Pneumonia cases from xray images .The covid -19 makes the risk of Pneumonia increase substancially and thus deep lerning modls will help the society 
+  - This project aims at identifying Pneumonia cases from xray images .The covid -19 makes the risk of Pneumonia increase substancially and thus deep lerning modls will help the society
   - Tech: Tensorflow ,sklearn, TPU
   - Model: EfficientNet
-  - Results: with unique additions to the fully connected layers the accuracy of the m. The model performs better on the validation set than on the test data.Therefore with more data better ensembling with Densenet varients can improve the performance further  
+  - Results: The model performs better on the validation set than on the test data.Therefore with more data better ensembling with Densenet varients can improve the performance further . 
   
  All the experiments of the projects are done on colab notebook for sole reason of free GPU. So if you wish to build your own model ,you can just clone the git and get the ipynb and run them on colab  and make changes according to your need . I intend to keep improving the model and up to date with current SOTA modeles. So if you want the trained model you can contact me at **sagarkarki136@gmail.com**  
